@@ -8,7 +8,6 @@ namespace ALGORITMOS
 {
     class Resultados
     {
-
         static void Main(string[] args)
         {
 
